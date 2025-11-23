@@ -95,11 +95,11 @@ weight:
 platforms:
   - id: "jin10"
     name: "金十数据"
-  - id: "sina"
+  - id: "finance.sina"
     name: "新浪财经"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
-  - id: "dongfangcaifu"
+  - id: "eastmoney"
     name: "东方财富"
   - id: "cls-hot"
     name: "财联社热门"
