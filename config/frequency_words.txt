@@ -3,6 +3,10 @@
 
 
 特朗普
+@5
+
+
+特朗普
 +真实社交
 
 
@@ -21,22 +25,45 @@
 稀土
 @5
 
+
 美联储
+@5
 
 
 云南铜业
+000878
 @3
+
 
 拓维信息
+002261
 @3
 
-美股LTBR
 
-美股NB
+美股
+LTBR
+Lightbridge Corp
 
-美股USAR
 
-美股UAMY
+美股
+NB
+NioCorp Developments Ltd
+
+
+美股
+USAR
+USA Rare Earth Inc
+
+
+美股
+UAMY
+United States Antimony Corp
+
+
+美股
+CRML
+Critical Metals Corp
+
 
 黄金
 @3
@@ -65,17 +92,25 @@ NVIDIA
 @5
 
 
-ai
-!gai
-人工智能
+中国
+美国大豆
 @2
 
 
-中国购买美国大豆
-
-
-中国购买巴西大豆
+中国
+巴西大豆
+@2
 
 
 关键矿产
+@5
+
+
+美国
+关键矿产
+@5
+
+
+贝森特
+@5
 
