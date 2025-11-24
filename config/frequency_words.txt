@@ -40,29 +40,30 @@
 @3
 
 
-美股
 LTBR
 Lightbridge Corp
+@2
 
 
-美股
 NB
 NioCorp Developments Ltd
+@2
+!NBC
 
 
-美股
 USAR
 USA Rare Earth Inc
+@2
 
 
-美股
 UAMY
 United States Antimony Corp
+@2
 
 
-美股
 CRML
 Critical Metals Corp
+@2
 
 
 黄金
@@ -78,6 +79,7 @@ Critical Metals Corp
 
 
 日经
+日本股市
 @3
 
 
@@ -92,13 +94,11 @@ NVIDIA
 @5
 
 
-中国
-美国大豆
+购买美国大豆
 @2
 
 
-中国
-巴西大豆
+购买巴西大豆
 @2
 
 
