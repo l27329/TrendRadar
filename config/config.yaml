@@ -129,3 +129,5 @@ platforms:
     name: "ProductHunt"
   - id: "github"
     name: "GitHub"
+  - id: "Reuters"
+    name: "路透社"
